@@ -1,0 +1,5 @@
+"layer","available","reason"
+"SCENIC",FALSE,"No traceable loom, regulonAUC or motif-ranking output in the current freeze"
+"AUCell",FALSE,"No traceable activity matrix in the current freeze"
+"DoRothEA/regulon",FALSE,"No prior network or activity matrix in the current freeze"
+"GENIE3/RcisTarget",FALSE,"No traceable fitted network or motif-ranking output in the current freeze"

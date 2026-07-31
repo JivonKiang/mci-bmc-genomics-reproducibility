@@ -1,0 +1,7 @@
+layer,independent_unit,audited_size,decision_rule,manuscript_interpretation
+de_novo_discovery,blood_sample,"GSE63060; n=155", "Both adjacent contrasts BH-FDR<0.05 and opposite directions", "95-gene registry; 40 MCI-peak and 55 MCI-trough"
+development_stability,blood_sample,"GSE63060 n=155; GSE63061 n=142", "Prespecified two-batch direction and minimum absolute adjusted effect", "12-gene research score; same-system stability only"
+independent_stage_test,blood_sample,"GSE249477; n=62; HC=21; MCI=20; AD=21", "Locked score; no reweighting; 10/12 mapped", "Primary cross-cohort transportability test; null and reversed directions"
+progression_branch,unique_subject_or_paired_subject,"52 baseline P/S subjects; 11 paired P-MCI/AD subjects", "Subject-level models; labels preserved", "Exploratory limitation; not independent mRNA validation"
+single_cell_context,donor_or_sample,"13 samples; HC=7; MCI=2; AD=4; 22428 cells", "Donor-aware composition and TF activity; pooled two-donor perturbation", "Cellular context and negative computational gate"
+immune_genetics_branch,independent_cis_eqtl_instrument,"SPI1; 3 instruments; 5 outcomes", "IVW only with at least 3 instruments and F>10; Bonferroni across outcomes", "Hypothesis-generating sensitivity analysis"

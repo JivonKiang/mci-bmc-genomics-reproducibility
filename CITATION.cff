@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "MCI blood transcriptomics reproducibility"
+message: "Please cite the associated BMC Genomics manuscript and this repository when reusing the code or aggregate results."
+type: software
+authors:
+  - family-names: Jiang
+    given-names: Fan
+    orcid: "https://orcid.org/0000-0002-9257-206X"
+  - family-names: Wang
+    given-names: Siyang
+    orcid: "https://orcid.org/0009-0001-7498-0748"
+  - family-names: Li
+    given-names: Man
+  - family-names: Dou
+    given-names: Xueting
+    orcid: "https://orcid.org/0009-0005-8383-0193"
+  - family-names: Gong
+    given-names: Lin
+    orcid: "https://orcid.org/0000-0002-6684-1075"
+  - family-names: Sun
+    given-names: Zhongyang
+    orcid: "https://orcid.org/0000-0002-6558-2174"
+  - family-names: Lu
+    given-names: Na
+  - family-names: Dong
+    given-names: Jing
+    orcid: "https://orcid.org/0000-0000-9490-1464"
+repository-code: "https://github.com/JivonKiang/mci-bmc-genomics-reproducibility"
+url: "https://github.com/JivonKiang/mci-bmc-genomics-reproducibility"
+date-released: 2026-07-31
+keywords:
+  - mild cognitive impairment
+  - Alzheimer disease
+  - blood transcriptomics
+  - reproducibility
+  - integrative genomics

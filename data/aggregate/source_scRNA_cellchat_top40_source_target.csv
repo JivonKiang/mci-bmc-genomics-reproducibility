@@ -1,0 +1,41 @@
+"source","target","probability"
+"Terminal effector CD8 T cells","Effector memory CD8 T cells",3.75063435457139
+"Effector memory CD8 T cells","Effector memory CD8 T cells",3.67163999321707
+"MAIT cells","Effector memory CD8 T cells",3.55820329316842
+"Central memory CD8 T cells","Effector memory CD8 T cells",3.2169663782641
+"Th2 cells","Effector memory CD8 T cells",2.82013367144868
+"MAIT cells","MAIT cells",2.41906483082894
+"Effector memory CD8 T cells","MAIT cells",2.24076155288345
+"Terminal effector CD8 T cells","MAIT cells",2.14914092250875
+"Effector memory CD8 T cells","Terminal effector CD8 T cells",2.01812069582173
+"Effector memory CD8 T cells","Naive CD8 T cells",1.91658061329344
+"Terminal effector CD8 T cells","Naive CD8 T cells",1.8324033449466
+"MAIT cells","Terminal effector CD8 T cells",1.83198012690997
+"MAIT cells","Naive CD8 T cells",1.79282970918394
+"Non-switched memory B cells","Effector memory CD8 T cells",1.78833113702084
+"Naive CD8 T cells","Effector memory CD8 T cells",1.77820501073999
+"Terminal effector CD8 T cells","Terminal effector CD8 T cells",1.75758340867369
+"Effector memory CD8 T cells","Central memory CD8 T cells",1.67730066524646
+"Central memory CD8 T cells","Naive CD8 T cells",1.6568352948708
+"Terminal effector CD8 T cells","Central memory CD8 T cells",1.59925938858481
+"MAIT cells","Central memory CD8 T cells",1.54993474199899
+"Naive CD8 T cells","Naive CD8 T cells",1.51276411056309
+"Th2 cells","Naive CD8 T cells",1.48523576931707
+"Non-switched memory B cells","Naive CD8 T cells",1.27787929833768
+"Th2 cells","MAIT cells",1.14928713940277
+"Central memory CD8 T cells","MAIT cells",0.785173278662211
+"Th2 cells","Non-switched memory B cells",0.689752526075867
+"MAIT cells","Non-switched memory B cells",0.662914985224636
+"Effector memory CD8 T cells","Non-switched memory B cells",0.65164209694871
+"Central memory CD8 T cells","Non-switched memory B cells",0.642823120303674
+"Naive CD8 T cells","MAIT cells",0.641986866377058
+"Terminal effector CD8 T cells","Non-switched memory B cells",0.636611267288047
+"Naive CD8 T cells","Non-switched memory B cells",0.62652098799874
+"Non-switched memory B cells","Non-switched memory B cells",0.604153021000887
+"Effector memory CD8 T cells","Th2 cells",0.595483860354506
+"Th2 cells","Central memory CD8 T cells",0.55297105478153
+"Non-switched memory B cells","MAIT cells",0.494352059296987
+"MAIT cells","Th2 cells",0.478332325753289
+"Central memory CD8 T cells","Central memory CD8 T cells",0.245268517589953
+"Naive CD8 T cells","Central memory CD8 T cells",0.232470063088138
+"Terminal effector CD8 T cells","Th2 cells",0.207651202424563
