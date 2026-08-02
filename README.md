@@ -1,6 +1,6 @@
 # MCI blood transcriptomics reproducibility
 
-Public code and aggregate result tables supporting the BMC Genomics submission prepared on 31 July 2026.
+Public code and aggregate result tables supporting the BMC Genomics submission prepared on 3 August 2026.
 
 ## Study scope
 
@@ -15,6 +15,10 @@ The score is a research representation of a cross-sectional stage-associated sta
 - `docs/`: code/data/figure mapping, data availability and public-release scope.
 
 The scripts are provenance-preserving research code. Several scripts reference the original local project layout and may require path adaptation before independent execution. The repository is not presented as a one-command software package.
+
+## Reproducible environment
+
+The Python scripts require Python 3.10 or newer and the packages listed in `requirements.txt`. Scripts that read local raw data require `MCI_ROOT` to point to the full local project; the public repository intentionally does not contain those raw or controlled-access files. R workflows require R 4.2 or newer and the packages listed in `R_environment.md`.
 
 ## Public data sources
 
@@ -34,7 +38,7 @@ This public release contains no sample-level, subject-level or cell-level record
 
 ## Citation
 
-See `CITATION.cff` and `docs/Data_and_Code_Availability_20260731.md`.
+See `CITATION.cff`, `docs/Data_and_Code_Availability_20260803.md` and `docs/REFERENCE_SOURCES_20260803.md`.
 
 ## Contact
 

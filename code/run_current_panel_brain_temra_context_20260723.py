@@ -23,7 +23,7 @@ from run_brain_stage_context_gse285831_20260722 import parse_series_labels, read
 from run_stage_discovery_gse63060_20260721 import fit_linear  # noqa: E402
 from run_temra_stage_context_gse134578_20260722 import parse_temra_labels, read_temra_pseudobulk  # noqa: E402
 
-ROOT = Path(os.environ.get("MCI_ROOT", "."))
+ROOT = Path(os.environ.get("MCI_ROOT", Path(__file__).resolve().parents[2]))
 BASE = ROOT / "20260709"
 PANEL_PATH = BASE / "mci_development_optimized_panel_20260722_161919" / "development_locked_12_gene_panel.csv"
 ANNOTATION_PATH = ROOT / "20250816 revise" / "GEO" / "Human.GRCh38.p13.annot.tsv.gz"

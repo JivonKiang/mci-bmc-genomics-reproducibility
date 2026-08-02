@@ -1,12 +1,13 @@
 # Public release scope
 
-Prepared: 31 July 2026
+Prepared: 3 August 2026
 
 ## Included
 
 - Selected Python, R and validation scripts from the BMC Genomics analysis workflow.
 - Aggregate source tables for gene programmes, locked-score contrasts, pathway summaries, perturbation summaries, MR summaries and evidence-unit audits.
 - Relative-path documentation linking code, aggregate tables and manuscript figures.
+- Verified source references for the added GSE285831 brain-context and GSE134578 single-cell context layers.
 
 ## Excluded
 
