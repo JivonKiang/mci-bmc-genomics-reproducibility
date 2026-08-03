@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 title: "MCI blood transcriptomics reproducibility"
-message: "Please cite the associated BMC Genomics manuscript and this repository when reusing the code or aggregate results."
+message: "Please cite this repository when reusing the code or aggregate results, and cite the associated BMC Genomics article once its final DOI is available. See CITATION.md for the current citation guidance."
 type: software
+license: MIT
 authors:
   - family-names: Jiang
     given-names: Fan
